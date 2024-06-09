@@ -22,4 +22,3 @@ mongoose
 app.use('/.netlify/functions/api', router);
 
 module.exports.handler = serverless(app);
-cluster0.tsdwaa9.mongodb.net
